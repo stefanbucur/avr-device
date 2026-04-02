@@ -1,3 +1,6 @@
 /target/
 /macros/target/
 **/*.rs.bk
+
+# Bazel auto-generated files
+**/BUILD.bazel
